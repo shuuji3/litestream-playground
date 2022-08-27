@@ -1,0 +1,4 @@
+dbs:
+  - path: fruits.db
+    replicas:
+      - url: gcs://shuuji3-litestream/fruits.db
